@@ -1,7 +1,7 @@
 # ClusterAI
 ### Autor: Schiebelbein Clara
 
-## Modelo Supervizado de Regresión 
+## Modelo Supervisado de Regresión 
 - EDA análisis exploratorio de datos: 
 
   clusterai_clara_schiebelbein_EDA.ipynb
