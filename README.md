@@ -13,5 +13,8 @@
 
 - Reporte del trabajo: 
   clusterAI_schiebelbein_reporte
-  
+ 
+- DataSets: 
+  properati_capital.csv
+  NewDataSet.csv
   
