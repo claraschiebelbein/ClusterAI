@@ -3,6 +3,7 @@
 
 ## Modelo Supervizado de Regresión 
 - EDA análisis exploratorio de datos: 
+
 clusterai_clara_schiebelbein_EDA.ipynb
 
 - Con reducción de la dimensionalidad: 
