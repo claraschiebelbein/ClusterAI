@@ -1,1 +1,2 @@
 # ClusterAI
+Autor: Schiebelbein Clara
